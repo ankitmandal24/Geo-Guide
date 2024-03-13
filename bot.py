@@ -76,10 +76,8 @@ for x in data_into_list:
 
 
 # Adjusting event coordinates
-event_coordinates[0][1] -= 97
-event_coordinates[1][1] -= 100
-event_coordinates[2][1] -= 100
-event_coordinates[3][1] -= 100
+for i in range(len(event_coordinates):
+    event_coordinates[i][1] -= 98 
 
 
 # Appending a fixed coordinate as the last event coordinate
