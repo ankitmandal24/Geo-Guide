@@ -362,7 +362,7 @@ while len(arucolst)<47:
 # Output:
 #     None
 # Logic:
-#     Processes AR marker data, calculates directions, and sends instructions to the robot via socket communication.
+#     Processes ARUCO marker data, calculates directions, and sends instructions to the robot via socket communication.
 """
 def process_aruco_markers(arucolst, botid, detector, cap, ip, port, csv_path, event_coordinates,conn):
             i = 0
