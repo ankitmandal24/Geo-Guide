@@ -10,7 +10,7 @@ priority order is 1)Fire 2)Destroyed building 3)Humanitarian Aid
 
 ## Documentation
 
-The code is fully documented in the file itself
+The code is fully documented in the file itself.
 
 
 ## Project link
